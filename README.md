@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samarth4023
+- 👋 Hi, I’m Samarth Pujari
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning Artificial Intelligence / Machine Learning
 - 💞️ I’m looking to collaborate on Ai/ML Projects
