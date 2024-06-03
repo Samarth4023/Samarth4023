@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samarth4023
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning Artificial Intelligence / Machine Learning
-- 💞️ I’m looking to collaborate on ML Projects
+- 💞️ I’m looking to collaborate on Ai/ML Projects
 - 📫 How to reach me -- Dm at GitHub bio (LinkedIn, Gmail, etc.)
 
 <!---
