@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![Computer Engineer](https://github.com/Samarth4023/Samarth4023/assets/128507779/f659d7df-3a1d-4c2e-981f-d237cbfa7357)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m Samarth Pujari
 - 👀 I’m interested in TECH
