@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Ai/ML Projects
 - 📫 How to reach me -- Dm at GitHub bio (LinkedIn, Gmail, etc.)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Samarth4023)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samarth4023&theme=radical)](https://git.io/streak-stats)
 
 <!---
 Samarth4023/Samarth4023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
