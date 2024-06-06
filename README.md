@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula))
 
 - 👋 Hi, I’m Samarth Pujari
 - 👀 I’m interested in TECH
