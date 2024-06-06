@@ -10,7 +10,7 @@
 
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samarth4023&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth4023&layout=compact)
 
 <!---
 Samarth4023/Samarth4023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
