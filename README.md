@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Ai/ML Projects
 - 📫 How to reach me -- Dm at GitHub bio (LinkedIn, Gmail, etc.)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Samarth4023&theme=radical)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth4023)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samarth4023&theme=radical&card_height=267)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth4023)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samarth4023&show_icons=true&theme=radical)
 
