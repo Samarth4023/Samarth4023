@@ -45,7 +45,7 @@
 ## Frameworks
 | PyTorch | Scikit Learn | Tensorflow | Pandas | Numpy | Matplotlib | Seaborn |
 |---------|------------|--------------|--------|-------|------------|---------|
-|<p align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></p>|<p align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>|<p align="center"></p>|<p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></p>|<p align="center"></p>|<p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a></p>|
+|<p align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a></p>|<p align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a></p>|<p align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> </a></p>|<p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="65" height="65"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="45" height="45"/></p>|<p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/> </a></p>|
 
 ## DevOps
 | Docker | AWS | GCP | Kubernetes |
@@ -55,7 +55,7 @@
 ## IDE's
 | Visual Studio | IntelliJ | PyCharm | Netbeans | Eclipse |
 |---------------|----------|---------|----------|---------|
-|<p align="center"><a href="https://logowik.com/intellij-idea-logo-vector-svg-png-free-download-25905.html"><img src=""></a></p>|<p align="center"><a href="https://logowik.com/intellij-idea-logo-vector-svg-png-free-download-25905.html"><img src="https://logowik.com/content/uploads/images/intellij-idea286.logowik.com.webp"></a></p>|<p align="center"></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="netbeans" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="eclipse" width="40" height="40"/> </a></p>|
+|<p align="center"><a href="https://logowik.com/intellij-idea-logo-vector-svg-png-free-download-25905.html"><img src=""></a></p>|<p align="center"><a href="https://logowik.com/intellij-idea-logo-vector-svg-png-free-download-25905.html"><img src="C:\Users\LENOVO\Downloads\Untitled design.png"></a></p>|<p align="center"></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="netbeans" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="eclipse" width="40" height="40"/> </a></p>|
 
 
 ## Frontend
@@ -72,7 +72,7 @@
 ## DataBase
 | MySql |
 |-------|
-|<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>|
+|<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/></p>|
 <!---
 Samarth4023/Samarth4023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
