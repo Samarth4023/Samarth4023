@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samarth4023&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samarth4023&theme=radical" alt="GitHub Streak" width="550"/></a>
 </p>
 
 ---
@@ -52,10 +52,17 @@
 |--------|-----|-----|------------|
 |<p align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>|<p align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>|<p align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></p>|<p align="center"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></p>|
 
+## Data Manipulation
+
+| Conda | Jupyter | Spark | MySQL | 
+|-------|---------|-------|-------|
+|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></p>|
+
+
 ## IDE's
 | Visual Studio | IntelliJ | PyCharm | Netbeans | Eclipse |
 |---------------|----------|---------|----------|---------|
-|<p align="center"><a href="https://logowik.com/intellij-idea-logo-vector-svg-png-free-download-25905.html"><img src=""></a></p>|<p align="center"><a href="https://logowik.com/intellij-idea-logo-vector-svg-png-free-download-25905.html"><img src="C:\Users\LENOVO\Downloads\Untitled design.png"></a></p>|<p align="center"></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="netbeans" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="eclipse" width="40" height="40"/> </a></p>|
+|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" /></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="netbeans" width="40" height="40"/> </a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" /></p>|
 
 
 ## Frontend
@@ -64,17 +71,12 @@
 |<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>|<p align="center"><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" width="40" height="40"/> </a></p>|<p align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind_css" width="40" height="40"/> </a></p>|
 
 ## Ui/Ux
-| Figma | Adobe XD |
-|-------|----------|
-|<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" width="40" height="40"/> </a></p>|
+| Figma | Adobe XD | Canva |
+|-------|----------|-------|
+|<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" width="40" height="40"/> </a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /></p>|
 
 
-## DataBase
-| MySql |
-|-------|
-|<p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>|
-
-## Git
+## Version Control
 | Git |
 |-----|
 |<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>|
