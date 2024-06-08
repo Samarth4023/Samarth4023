@@ -1,6 +1,5 @@
 ## ![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -60,12 +59,10 @@ View in Dark Mode 😉🫠
 |-------|---------|-------|-------|
 |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/075f93ad-18ac-4aad-8f2c-c8136a71038b" title="Jupyter" width="75" height="75"/></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/dce4063f-da02-49d4-b027-82d4b11eaefb" title="Adobe Spark" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></p>|
 
-
 ## IDE's 📝
 | Visual Studio | IntelliJ | PyCharm | Netbeans | Eclipse |
 |---------------|----------|---------|----------|---------|
 |<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio" width="40" height="40"/></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" width="40" height="40" /></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40" /></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="netbeans" title="NetBeans" width="40" height="40"/> </a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40" /></p>|
-
 
 ## Frontend ☄
 | HTML | CSS | Bootstrap | Tailwind CSS |
@@ -77,14 +74,11 @@ View in Dark Mode 😉🫠
 |-------|----------|-------|
 |<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" title="Adobe XD" width="40" height="40"/></a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/></p>|
 
-
-
 ## Version Control 🪄📈
 | Git | GitHub | GitHub Codespaces |
 |-----|--------|-------------------|
 |<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/40e41efe-dfec-4e80-a207-a8f26550c63a" title="GitHub" width="45" height="45" /></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/9a81e1b1-bb4b-44a3-b5d8-ab5c23948425" title="GitHub Codespaces" width="40" height="40" /></p>|
 
-<!---
-Samarth4023/Samarth4023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
