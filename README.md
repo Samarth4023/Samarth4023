@@ -75,13 +75,15 @@
 ## Ui/Ux 🖌️
 | Figma | Adobe XD | Canva |
 |-------|----------|-------|
-|<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" width="40" height="40"/> </a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /></p>|
+|<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" width="40" height="40"/></a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /></p>|
+
 
 
 ## Version Control 🪄📈
-| Git |
-|-----|
-|<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>|
+| Git | GitHub | GitHub Codespaces |
+|-----|--------|-------------------|
+|<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/40e41efe-dfec-4e80-a207-a8f26550c63a" width="45" height="45" /></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/9a81e1b1-bb4b-44a3-b5d8-ab5c23948425" width="40" height="40" /></p>|
+
 <!---
 Samarth4023/Samarth4023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
