@@ -1,4 +1,5 @@
-![Computer Engineer](https://github.com/Samarth4023/Samarth4023/assets/128507779/f659d7df-3a1d-4c2e-981f-d237cbfa7357)
+## ![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19)](https://github.com/ryo-ma/github-profile-trophy)
 
