@@ -4,7 +4,7 @@
 
 ---
 
-- 👋 Hi, I’m Samarth Pujari
+- 👋 Hi, I’m ***Samarth Pujari***
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning Artificial Intelligence / Machine Learning
 - 💞️ I’m looking to collaborate on Ai/ML Projects
@@ -13,7 +13,7 @@
 ## Social Media (Click Logos😊)
 | LinkedIn | Kaggle | HackerRank | Facebook | X | Instagram | LeetCode | 
 |----------|--------|------------|----------|---|-----------|----------|
-|<p align="center"><a href="https://www.linkedin.com/in/samarth-pujari-328a1326a" target="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a></p>|<p align="center"><a href="https://www.kaggle.com/samarthpujari" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="55" height="55"/></a></p>|<p align="center"><a href="https://www.hackerrank.com/profile/samarth_pujari" target="blank"></a></p>|<p align="center"><a href="https://www.facebook.com/samarth.pujari.33?mibextid=zbwkwl" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/></a>|<p align="center"><a href="https://twitter.com/samarth pujari" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="30" height="30"/></a></p>|<p align="center"><a href="https://instagram.com/samarth_599" target="blank"></a></p>|<p align="center"><a href="https://www.leetcode.com/https://leetcode.com/u/samarth4023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/samarth4023/" height="35" width="35" /></a>
+|<p align="center"><a href="https://www.linkedin.com/in/samarth-pujari-328a1326a" target="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a></p>|<p align="center"><a href="https://www.kaggle.com/samarthpujari" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="55" height="55"/></a></p>|<p align="center"><a href="https://www.hackerrank.com/profile/samarth_pujari" target="blank"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/91e0daf2-c9a0-4cd3-b576-e46fa87da804" width="40"  height="40" /></a></p>|<p align="center"><a href="https://www.facebook.com/samarth.pujari.33?mibextid=zbwkwl" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/></a>|<p align="center"><a href="https://twitter.com/samarth pujari" target="blank"><img src="https://img.icons8.com/?size=100&id=95tjpz0WdSIQ&format=png&color=000000" width="45" height="45"/></a></p>|<p align="center"><a href="https://instagram.com/samarth_599" target="blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="45" height="45" /></a></p>|<p align="center"><a href="https://www.leetcode.com/https://leetcode.com/u/samarth4023/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/samarth4023/" height="35" width="35" /></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 ## Frameworks ❤️
 | PyTorch | Scikit Learn | Tensorflow | Pandas | Numpy | Matplotlib | Seaborn |
-|---------|------------|--------------|--------|-------|------------|---------|
+|---------|--------------|------------|--------|-------|------------|---------|
 |<p align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a></p>|<p align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a></p>|<p align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> </a></p>|<p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="65" height="65"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="45" height="45"/></p>|<p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/> </a></p>|
 
 ## DevOps <img src="https://img.icons8.com/?size=100&id=CLa3T2WlbrOP&format=png&color=000000" width="25" height="25"/>
