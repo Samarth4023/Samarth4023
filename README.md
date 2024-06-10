@@ -27,7 +27,7 @@ View in Dark Mode 😉🫠
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Samarth4023&show_icons=true&theme=radical">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Samarth4023&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth4023&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </p>
  
