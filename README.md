@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+----
 View in Dark Mode 😉🫠
 - 👋 Hi, I’m ***Samarth Pujari***
 - 👀 I’m interested in TECH
