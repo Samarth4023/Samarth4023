@@ -79,6 +79,12 @@ View in Dark Mode 😉🫠
 |-----|--------|-------------------|
 |<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/40e41efe-dfec-4e80-a207-a8f26550c63a" title="GitHub" width="45" height="45" /></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/9a81e1b1-bb4b-44a3-b5d8-ab5c23948425" title="GitHub Codespaces" width="40" height="40" /></p>|
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
