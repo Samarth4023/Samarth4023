@@ -1,12 +1,12 @@
 ## ![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
- 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 View in Dark Mode 😉🫠
 - 👋 Hi, I’m ***Samarth Pujari***
 - 👀 I’m interested in TECH
-- 🌱 I’m currently learning Artificial Intelligence / Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence / Machine Learning 
 - 💞️ I’m looking to collaborate on Ai/ML Projects
 - 📫 How to reach me -- Dm's below 👇
 
