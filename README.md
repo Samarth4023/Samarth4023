@@ -5,7 +5,7 @@
 ----
 View in Dark Mode 😉🫠
 - 👋 Hi, I’m ***Samarth Pujari***
-- 👀 I’m interested in TECH, Completed *Bachelor's Degree*.
+- 👀 I’m interested in TECH, Completed **Bachelor's Degree**.
 - 🌱 I’m currently learning Artificial Intelligence / Machine Learning 
 - 💞️ I’m looking to collaborate on Ai/ML Projects
 - 📫 How to reach me -- Dm's below 👇
