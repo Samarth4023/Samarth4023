@@ -14,7 +14,6 @@ View in Dark Mode 😉🫠
 | LinkedIn | Kaggle | HackerRank | Facebook | X | Instagram | LeetCode | 
 |----------|--------|------------|----------|---|-----------|----------|
 |<p align="center"><a href="https://www.linkedin.com/in/samarth-pujari-328a1326a" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a></p>|
-
 <p align="center"><a href="https://www.kaggle.com/samarthpujari" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" width="55" height="55"/></a></p>|
 
 <p align="center"><a href="https://www.hackerrank.com/profile/samarth_pujari" target="blank"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/91e0daf2-c9a0-4cd3-b576-e46fa87da804" title="HackerRank" width="40"  height="40" /></a></p>|
