@@ -10,8 +10,6 @@ View in Dark Mode 😉🫠
 - 💞️ I’m looking to collaborate on Ai/ML Projects
 - 📫 How to reach me -- Dm's below 👇
 
-
-
 ## Social Media (Click Logos😊)
 | LinkedIn | Kaggle | HackerRank | Facebook | X | Instagram | LeetCode | 
 |----------|--------|------------|----------|---|-----------|----------|
