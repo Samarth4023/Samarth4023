@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=-PullRequest,-Issues,-Reviews&row=2&column=5" /></a></p>
 
 ----
-View in Dark Mode 😉🫠
+
 - 👋 Hi, I’m ***Samarth Pujari***
 - 👀 I’m interested in TECH, Completed **Bachelor's Degree**.
 - 🌱 I’m currently learning Artificial Intelligence / Machine Learning 
