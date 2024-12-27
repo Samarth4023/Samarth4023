@@ -1,6 +1,6 @@
 ## ![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=dracula&margin-w=19&title=-PullRequest,-Issues,-Reviews&row=1&column=5" /></a></p>
 
 ----
 View in Dark Mode 😉🫠
