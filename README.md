@@ -18,7 +18,7 @@ View in Dark Mode 😉🫠
 ---
 
 ## Kaggle Badges🎖️
-![image](https://github.com/user-attachments/assets/0bac3b96-58b2-4885-b243-b0300f8f1cf7)
+<p align="center"><img src="https://github.com/user-attachments/assets/0bac3b96-58b2-4885-b243-b0300f8f1cf7"/></p>
 
 ---
 
