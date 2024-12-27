@@ -17,6 +17,11 @@ View in Dark Mode 😉🫠
 
 ---
 
+## Kaggle Badges🎖️
+![image](https://github.com/user-attachments/assets/0bac3b96-58b2-4885-b243-b0300f8f1cf7)
+
+---
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samarth4023&theme=radical" alt="GitHub Streak" width="550"/></a>
 </p>
