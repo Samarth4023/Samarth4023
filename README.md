@@ -18,7 +18,7 @@
 ---
 
 ## Kaggle Badges🎖️
-<p align="center"><img src="https://github.com/user-attachments/assets/0bac3b96-58b2-4885-b243-b0300f8f1cf7"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/892d8331-ac56-43de-8513-bf54c808adb4"/></p>
 
 ---
 
