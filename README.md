@@ -16,9 +16,10 @@
 |<p align="center"><a href="https://www.linkedin.com/in/samarth-pujari-328a1326a" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="40" height="40"/></a><a href="https://www.linkedin.com/in/samarth-pujari-328a1326a" target="_blank"></a></p>|<p align="center"><a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" width="55" height="55"/></a></p>|<p align="center"><a href="https://www.hackerrank.com/profile/samarth_pujari" target="_blank"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/91e0daf2-c9a0-4cd3-b576-e46fa87da804" title="HackerRank" width="40"  height="40" /></a></p>|<p align="center"><a href="https://www.facebook.com/samarth.pujari.33?mibextid=zbwkwl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" title="FaceBook" width="40" height="40"/></a>|<p align="center"><a href="https://twitter.com/Samarth_2001" target="_blank"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/101507b3-c84e-4496-8ff5-337f930fd8be" title="X(Twitter)" width="40" height="40"/></a></p>|<p align="center"><a href="https://instagram.com/samarth_599" target="_blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" title="Instagram" width="45" height="45" /></a></p>|
 
 ---
+![image]()
 
 ## Kaggle Badges🎖️
-<p align="center"><img src="https://github.com/user-attachments/assets/892d8331-ac56-43de-8513-bf54c808adb4"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/2c1dbfb7-0712-4fbf-9e40-3f1f9859c3fc"/></p>
 
 ---
 
