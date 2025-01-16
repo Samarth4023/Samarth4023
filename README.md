@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samarth4023&theme=radical" alt="GitHub Streak" width="550"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Samarth4023&theme=radical&border_radius=5&card_width=550" alt="GitHub Streak" /></a>
 </p>
 
 ---
