@@ -1,5 +1,5 @@
 ## ![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
- 
+
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=-PullRequest,-Issues,-Reviews&row=2&column=6" /></a></p>
 
 ----
