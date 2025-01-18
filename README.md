@@ -1,5 +1,5 @@
 ## ![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
- 
+
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=-PullRequest,-Issues,-Reviews&row=2&column=6" /></a></p>
 
 ----
@@ -19,12 +19,6 @@
 
 ## Kaggle Badges🎖️
 <p align="center"><img src="https://github.com/user-attachments/assets/2c1dbfb7-0712-4fbf-9e40-3f1f9859c3fc"/></p>
-
----
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Samarth4023&theme=radical&border_radius=5&card_width=550" alt="GitHub Streak" /></a>
-</p>
 
 ---
 
