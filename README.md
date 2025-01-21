@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser,Stars&column=7" /></a></p>
+<p align="center"><a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
 
 ----
 
