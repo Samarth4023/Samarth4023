@@ -7,7 +7,7 @@
 ----
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/4e5640d6-6079-426b-be07-95a942e0c88a" align="right" style="width: 300px; height: 180px;">
+<img src="https://github.com/user-attachments/assets/226b298e-e141-4cb6-a2e3-164da1bd0ec0" align="right" style="width: 300px; height: 200px;">
 </div>
 
 - 👋 Hi, I’m ***Samarth Pujari***
