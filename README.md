@@ -4,10 +4,10 @@
 
 <p align="center"><a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
 
-----
+---
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/226b298e-e141-4cb6-a2e3-164da1bd0ec0" align="right" style="width: 300px; height: 200px;">
+<img src="https://github.com/user-attachments/assets/5f9fb749-087f-4df3-b052-8be2a7f59e57" align="right" style="width: 300px; height: 200px;" >
 </div>
 
 - 👋 Hi, I’m ***Samarth Pujari***
