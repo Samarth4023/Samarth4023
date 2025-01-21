@@ -6,10 +6,6 @@
 
 ---
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/f0690f27-2c42-4f8b-bbde-1c35369db56a" align="right" style="width: 340px; height: 170px;" >
-</div>
-
 - 👋 Hi, I’m ***Samarth Pujari***
 - 👀 I’m interested in TECH, Completed **Bachelor's Degree**.
 - 🌱 I’m currently learning Artificial Intelligence / Machine Learning 
