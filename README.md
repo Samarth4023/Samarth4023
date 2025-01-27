@@ -28,12 +28,12 @@
 ## Kaggle Badges🎖️
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/ca8df136-7280-4fd9-aa1e-ba073d0d41e7" title="Competitor" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/cd521ed5-aab7-47fa-8c8c-e5b9cb6e141e" title="Getting Started Competitor" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/3430bc24-cfdb-4c19-8cbb-9a0af9430938" title="Research Competitor" width="50" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/3430bc24-cfdb-4c19-8cbb-9a0af9430938" title="Research Competitor" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/949a92aa-9dfd-4274-8265-d12f09b23923" title="Community Competitor" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/67821204-a4ec-469f-8faa-3f223daa0a21" title="Playground Competitor" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b8022cbc-ac64-4e16-aa00-14719c4df4c5" title="Simulation Competitor" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/f4c2ef98-104a-442a-8b66-1890d01bc776" title="Code Submitter" width="50" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" title="Submission Streak" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" title="Submission Streak" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" title="Python Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/d8b05fd1-71f5-4a1f-b6ef-fe6923d8e924" title="R Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b90ef0c5-440f-4f85-99b2-431cfe93698a" title="R Markdown Coder" width="55" height="55"/></a>
