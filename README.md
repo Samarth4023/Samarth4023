@@ -7,7 +7,9 @@
 ---
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bd9f5a65-40c5-4673-8b9a-2cedfb8f3032" align="right" width="145" height="130">
+  <a href="https://www.kaggle.com/samarthpujari" target="_blank">
+<img src="https://github.com/user-attachments/assets/bd9f5a65-40c5-4673-8b9a-2cedfb8f3032" align="right" width="145" height="130" title="Kaggle Award: Competition Host">
+  </a>
   </div>
 
 - 👋 Hi, I’m ***Samarth Pujari***
