@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.kaggle.com/samarthpujari" target="_blank">
-<img src="https://github.com/user-attachments/assets/92bd89c1-9793-4343-ae0c-0d22cbb044c1" align="right" width="150" height="150" title="Kaggle Award: Competition Host">
+<img src="https://github.com/user-attachments/assets/92bd89c1-9793-4343-ae0c-0d22cbb044c1" align="right" width="135" height="150" title="Kaggle Award: Competition Host">
   </a>
   </div>
 
