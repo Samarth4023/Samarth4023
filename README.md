@@ -51,16 +51,16 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/2f1f2c11-c8cf-450d-9325-b89357d34da5" title="Model Creator" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/e8e52047-0a93-4b65-b85f-3549e5ff9507" title="Model Variation Creator" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/f1026f7f-dff6-48c7-921f-b327287b7837" title="Model Pipeline Creator" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/118beb6f-1bce-427c-bf14-17402ad70615" title="Model Documenter" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/118beb6f-1bce-427c-bf14-17402ad70615" title="Model Documenter" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/64a08b61-9ec8-484d-b885-f93caf0106bf" title="Model Tagger" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/3b2d9ffa-7c10-401e-8987-0cb7dbb098c6" title="Competition Modeler" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/3b2d9ffa-7c10-401e-8987-0cb7dbb098c6" title="Competition Modeler" width="53" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/00365d44-cc86-4555-b3f6-7add8b378990" title="Collector" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" title="Bookmarker" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/bde58999-0cc2-4dd3-ab16-8720a8730862" title="Vampire" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/77c3fafa-c905-4b77-93ff-7566ec01efd3" title="Agent of Discord" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/a22e9d4e-9d3e-4a9a-a905-947ea5362724" title="Learner" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="55" height="55"/></a>
 
 ---
