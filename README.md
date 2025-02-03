@@ -42,7 +42,7 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/abb24199-0204-4863-a99a-62d33b17136e" title="Github Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/7e37b94c-9fa9-4baa-bf22-c7befd3b657e" title="Colab Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b6dc4d26-6c4a-4bf7-902e-e7794b6ad877" title="Code Tagger" width="53" height="53"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" title="Code Forker" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" title="Code Forker" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/2ed83bc0-ab18-4bcb-9060-319548e64f37" title="Notebook Modeler" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/02e09bfa-9c95-410b-bc1c-3bf83ea5bded" title="Utility Scripter" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/8d506c94-76f4-4733-86b8-4c28248c2fc9" title="Dataset Creator" width="54" height="55"/></a>
