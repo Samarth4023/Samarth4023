@@ -35,6 +35,7 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/f4c2ef98-104a-442a-8b66-1890d01bc776" title="Code Submitter" width="50" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" title="Submission Streak" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/24c73a6f-5212-486a-9768-44518b3615dd" title="Super Submission Streak" width="57" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/41dee00e-d675-4cfd-883b-12644195a914" title="Mega Submission Streak" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" title="Python Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/d8b05fd1-71f5-4a1f-b6ef-fe6923d8e924" title="R Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b90ef0c5-440f-4f85-99b2-431cfe93698a" title="R Markdown Coder" width="55" height="55"/></a>
@@ -69,6 +70,7 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="57" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/9aa15bba-3a6e-4ab1-811a-aea76e1145d4" title="100 Day Login Streak" width="50" height="50"/></a>
 
 ---
 
