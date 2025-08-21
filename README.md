@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="AI Engineer (5)" src="https://github.com/user-attachments/assets/56879b0b-4bda-406b-b8ab-87ae0a3b2d60" />
+<img width="1584" height="396" alt="AI Engineer" src="https://github.com/user-attachments/assets/269d3df0-4539-45e2-9c73-6979dae74fe1" />
 
 ---
 
