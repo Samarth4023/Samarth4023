@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote GitHub Banner](https://github.com/Samarth4023/Samarth4023/assets/128507779/b6bd25ef-bd7c-438a-8eac-ea59cdafaa30)
+<img width="1584" height="396" alt="AI Engineer (4)" src="https://github.com/user-attachments/assets/ca2c744e-33cc-475c-bebe-5fdb5854fa41" />
 
 ---
 
