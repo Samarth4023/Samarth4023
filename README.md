@@ -72,7 +72,7 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="57" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/6fde96c5-010b-4cbd-a0e1-f9b18c1c13c4" title="100 Day Login Streak" width="53" height="52"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/6fde96c5-010b-4cbd-a0e1-f9b18c1c13c4" title="100 Day Login Streak" width="50" height="50"/></a>
 
 ---
 
