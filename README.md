@@ -58,7 +58,7 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/2f1f2c11-c8cf-450d-9325-b89357d34da5" title="Model Creator" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/e8e52047-0a93-4b65-b85f-3549e5ff9507" title="Model Variation Creator" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/f1026f7f-dff6-48c7-921f-b327287b7837" title="Model Pipeline Creator" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/7d646b4e-a1ff-401a-9532-23d4a7f39120" title="Linked Model Creator" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/7d646b4e-a1ff-401a-9532-23d4a7f39120" title="Linked Model Creator" width="53" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/19907aa7-9bcb-42da-b970-5f0f9f584d7e" title="API Model Creator" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/118beb6f-1bce-427c-bf14-17402ad70615" title="Model Documenter" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/64a08b61-9ec8-484d-b885-f93caf0106bf" title="Model Tagger" width="55" height="55"/></a>
