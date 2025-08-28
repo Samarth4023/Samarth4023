@@ -26,12 +26,14 @@
 ---
 
 ## Kaggle Badges🎖️
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/216a9327-ff74-4a9d-9371-5d7d3b6c033b" title="1 Year on Kaggle" width="56" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/ca8df136-7280-4fd9-aa1e-ba073d0d41e7" title="Competitor" width="56" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/cd521ed5-aab7-47fa-8c8c-e5b9cb6e141e" title="Getting Started Competitor" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/3430bc24-cfdb-4c19-8cbb-9a0af9430938" title="Research Competitor" width="52" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/949a92aa-9dfd-4274-8265-d12f09b23923" title="Community Competitor" width="54" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/67821204-a4ec-469f-8faa-3f223daa0a21" title="Playground Competitor" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b8022cbc-ac64-4e16-aa00-14719c4df4c5" title="Simulation Competitor" width="55" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/ae6adea1-c161-48a0-89e3-aee1da2e47ad" title="March Mania Competitor" width="56" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/f4c2ef98-104a-442a-8b66-1890d01bc776" title="Code Submitter" width="50" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" title="Submission Streak" width="57" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/24c73a6f-5212-486a-9768-44518b3615dd" title="Super Submission Streak" width="57" height="55"/></a>
