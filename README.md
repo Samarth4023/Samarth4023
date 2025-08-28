@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.kaggle.com/samarthpujari" target="_blank">
+  <a href="https://www.kaggle.com/certification/badges/samarthpujari/81" target="_blank">
 <img src="https://github.com/user-attachments/assets/92bd89c1-9793-4343-ae0c-0d22cbb044c1" align="right" width="122" height="140" title="Kaggle Award: Competition Host">
   </a>
   </div>
