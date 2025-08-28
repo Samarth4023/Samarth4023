@@ -94,16 +94,32 @@
 |--------|------|-----|---|
 |<p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a></p>|
 
+## Agentic AI Frameworks 🕹️
+| LlamaIndex | LangGraph | Smolagents |
+|------------|-----------|------------|
+|<p align="center"><img src="https://github.com/user-attachments/assets/84302102-d3cc-4cc3-9b75-fc3102083448" title="LlamaIndex" width="35" height="35"/></p>|<p align="center"><img src="https://github.com/user-attachments/assets/c53923c8-b1ae-4f1e-8bf0-30782c345357" title="LangGraph" width="35" height="35"/></p>|<p align="center"><img src="https://github.com/user-attachments/assets/8fc2f7e4-fed5-44bc-b04f-76ba64c6a516" title="Smolagents" width="35" height="35"/></p>|
+
+
+## AI Platforms & Hubs 🤖
+| IBM Watsonx | Hugging Face |
+|-------------|--------------|
+|<p align="center"><img src="https://github.com/user-attachments/assets/4c14afc7-7cad-40eb-8dce-52f1259a8fbd" title="IBM Watsonx" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/user-attachments/assets/1ed385f2-7b78-4795-b577-10a74d2b77c7" title="Cursor" width="35" height="35"/></p>|
+
 ## Frameworks ❤️
 | PyTorch | Scikit Learn | Pandas | Numpy | Matplotlib | Seaborn |
 |---------|--------------|--------|-------|------------|---------|
 |<p align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" title="PyTorch" width="45" height="45"/> </a></p>|<p align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit Learn" width="45" height="45"/> </a></p>|<p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="45" height="45"/> </a></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" title="Numpy" width="65" height="65"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="mpl" title="Matplotlib" width="40" height="40"/></p>|<p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="45" height="45"/> </a></p>|
           
 
-## DevOps <img src="https://img.icons8.com/?size=100&id=CLa3T2WlbrOP&format=png&color=000000" width="25" height="25"/>
-| Docker | AWS | GCP |
-|--------|-----|-----|
-|<p align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/b026eb6d-5ef9-41e5-9180-e1a7b701a989" title="Docker" width="40" height="40" /></a></p>|<p align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/f8ecd46a-0526-4d7b-8713-d84533178bc4" title="AWS" width="40" height="40"/> </a></p>|<p align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /></a></p>|
+## Deployment & MLOps <img src="https://img.icons8.com/?size=100&id=CLa3T2WlbrOP&format=png&color=000000" width="25" height="25"/>
+| FastAPI | GitHub Actions | Docker | AWS | GCP |
+|---------|----------------|--------|-----|-----|
+|<p align="center"><img src="https://github.com/user-attachments/assets/85d40ff1-f9f4-4775-ac67-bdefb70b6615" title="FastAPI" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/user-attachments/assets/2719da1e-cd0e-4523-8944-97a34db86530" title="GitHub Actions" width="40" height="40"/></p>|<p align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/b026eb6d-5ef9-41e5-9180-e1a7b701a989" title="Docker" width="40" height="40" /></a></p>|<p align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/f8ecd46a-0526-4d7b-8713-d84533178bc4" title="AWS" width="40" height="40"/> </a></p>|<p align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /></a></p>|
+
+## LLM Runtimes⚡
+| Ollama | Replicate |
+|--------|-----------|
+|<p align="center"><img src="https://github.com/user-attachments/assets/e0eb8548-6258-46aa-81e9-b2a12f49252e" title="Ollama" width="35" height="35"/></p>|<p align="center"><img src="https://github.com/user-attachments/assets/57824a15-c91a-410e-aeb8-afcd471d15da" title="Replicate" width="35" height="35"/></p>|
 
 ## Data Manipulation 🛠️
 | Conda | Jupyter | MySQL | 
@@ -111,14 +127,15 @@
 |<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/075f93ad-18ac-4aad-8f2c-c8136a71038b" title="Jupyter" width="75" height="75"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></p>|
 
 ## IDE's 📝
-| Visual Studio | IntelliJ | PyCharm | Netbeans | Eclipse |
-|---------------|----------|---------|----------|---------|
-|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio" width="35" height="35"/></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" width="40" height="40" /></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40" /></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="netbeans" title="NetBeans" width="40" height="40"/> </a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40" /></p>|
+| Cursor | Visual Studio | IntelliJ | PyCharm | Netbeans | Eclipse |
+|--------|---------------|----------|---------|----------|---------|
+|<p align="center"><img src="https://github.com/user-attachments/assets/6a8c9147-2ade-489b-ba59-6a47e0b1b532" title="Cursor" width="35" height="35"/></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio" width="35" height="35"/></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" width="40" height="40" /></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40" /></p>|<p align="center"><a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" alt="netbeans" title="NetBeans" width="40" height="40"/> </a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40" /></p>|
 
-## Frontend ☄
-| HTML | CSS | Bootstrap | Tailwind CSS |
-|------|-----|----------|---------------|
-|<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/0d5287ed-0bad-4174-9afa-0e361546610c" title="HTML" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS" width="40" height="40"/> </a></p>|<p align="center"><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a></p>|<p align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind_css" title="Tailwind CSS" width="40" height="40"/> </a></p>|
+## App & UI Frameworks🖥️
+| Streamlit | Gradio |
+|-----------|--------|
+|<p align="center"><img src="https://github.com/user-attachments/assets/be7f9f51-5089-4fd7-96bc-019be0772249" title="Streamlit" width="35" height="35"/></p>|<p align="center"><img src="https://github.com/user-attachments/assets/062ec7f9-0c48-41cb-bb9c-d166534232ce" title="Gradio" width="35" height="35"/></p>|
+
 
 ## Ui/Ux 🖌️
 | Figma | Adobe XD | Canva |
