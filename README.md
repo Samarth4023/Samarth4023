@@ -42,7 +42,7 @@
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/d8b05fd1-71f5-4a1f-b6ef-fe6923d8e924" title="R Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b90ef0c5-440f-4f85-99b2-431cfe93698a" title="R Markdown Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/604be16a-94a3-4d3f-a39a-917fd7f885b0" title="Code Uploader" width="55" height="55"/></a>
-<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/5296e4d2-688b-4886-8dd2-c2b946dafd9c" title="API Notebook Creator" width="57" height="55"/></a>
+<a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/5296e4d2-688b-4886-8dd2-c2b946dafd9c" title="API Notebook Creator" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/abb24199-0204-4863-a99a-62d33b17136e" title="Github Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/7e37b94c-9fa9-4baa-bf22-c7befd3b657e" title="Colab Coder" width="55" height="55"/></a>
 <a href="https://www.kaggle.com/samarthpujari" target="_blank"><img src="https://github.com/user-attachments/assets/b6dc4d26-6c4a-4bf7-902e-e7794b6ad877" title="Code Tagger" width="53" height="53"/></a>
