@@ -137,12 +137,12 @@
 ## Ui/Ux 🖌️
 | Figma | Adobe XD | Canva |
 |-------|----------|-------|
-|<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> </a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" title="Adobe XD" width="40" height="40"/></a></p>|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/></p>|
+|<p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="40" height="40"/></a></p>|<p align="center"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" title="Adobe XD" width="40" height="40"/></a></p>|<p align="center"><a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/></a></p>|
 
 ## Version Control 🪄📈
 | Git | GitHub | GitHub Codespaces |
 |-----|--------|-------------------|
-|<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/40e41efe-dfec-4e80-a207-a8f26550c63a" title="GitHub" width="45" height="45" /></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/9a81e1b1-bb4b-44a3-b5d8-ab5c23948425" title="GitHub Codespaces" width="40" height="40" /></p>|
+|<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/></a></p>|<p align="center"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/40e41efe-dfec-4e80-a207-a8f26550c63a" title="GitHub" width="45" height="45" /></a></p>|<p align="center"><a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/9a81e1b1-bb4b-44a3-b5d8-ab5c23948425" title="GitHub Codespaces" width="40" height="40" /></a></p>|
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
