@@ -77,18 +77,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth4023&layout=compact&langs_count=8&card_width=321&theme=radical" />
-</a>
-</p>
- 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samarth4023&style=for-the-badge&color=blue" alt=""/>
-</div>
-
----
-
 ## Languages 💪
 | Python | Java | C++ | C |
 |--------|------|-----|---|
