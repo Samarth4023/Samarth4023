@@ -76,6 +76,9 @@
 <a href="https://www.kaggle.com/certification/badges/samarthpujari/58" target="_blank"><img src="https://github.com/user-attachments/assets/6fde96c5-010b-4cbd-a0e1-f9b18c1c13c4" title="100 Day Login Streak" width="50" height="50"/></a>
 
 ---
+<div align="center">
+ <h1>🌟🌟🌟My Technical Arsenal🌟🌟🌟</h1>
+</div>
 
 ## Languages 💪
 | Python | Java | C++ | C |
